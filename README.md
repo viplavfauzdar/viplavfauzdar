@@ -22,6 +22,11 @@ Senior Software Engineer & Architect with 20+ years of experience building scala
 ---
 
 ## 🛠️ DIY Projects
+### 🚪 Smart Garage Door Opener
+- Built with Raspberry Pi, MQTT, and Siri Shortcuts. Includes remote control UI and door status monitoring.
+
+### 📞 Call Center Analytics Tool
+- Visualizes call history patterns for supervisors (e.g., transfers, holds). Built with Spring Boot, React, and MariaDB.
 ### 📡 TV Feed Streaming Prototype (2004)
 - Streamed live TV over the internet using a TV tuner card, VLC, and Windows Media Encoder.
 - Built before mainstream streaming platforms existed.
@@ -31,12 +36,6 @@ Senior Software Engineer & Architect with 20+ years of experience building scala
 
 ### 📶 Neighborhood Wi-Fi Sharing (2003)
 - Shared broadband securely with neighbors using consumer routers and custom firmware — an early look at community networks.
-
-### 🚪 Smart Garage Door Opener
-- Built with Raspberry Pi, MQTT, and Siri Shortcuts. Includes remote control UI and door status monitoring.
-
-### 📞 Call Center Analytics Tool
-- Visualizes call history patterns for supervisors (e.g., transfers, holds). Built with Spring Boot, React, and MariaDB.
 
 ### 🍽️ Online Food Ordering App (1999)
 - Created for a grad school project — featured menu browsing and order submission well before Grubhub or DoorDash.
