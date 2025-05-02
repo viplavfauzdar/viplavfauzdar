@@ -1,23 +1,18 @@
-# 👋 Hi, I'm Viplav Fauzdar
+## 👋 Hi, I'm Viplav
 
-Senior Software Engineer & Architect with 20+ years of experience building scalable enterprise solutions, innovating across full-stack, cloud, DevSecOps, and AI-driven systems. I enjoy solving real-world problems with code, mentoring teams, and hacking on DIY projects.
+I'm a hands-on engineering leader with 20+ years of experience building scalable backend systems, APIs, and cloud-native solutions across Fortune 1000 companies and startups. I specialize in Java, Spring Boot, microservices, and cloud platforms like AWS, GCP, and Azure.
 
----
+## 🤖 Lately, I've been building with AI:
+- 🧠 Developing **AI agents** and automation tools using **LangChain**, **Ollama**, **Gradio**, and **Streamlit**
+- 🔐 Leveraging **LLaMA 3**, **Mistral**, and other open-source LLMs for **private, local inference**
+- 📲 Integrating with **FastAPI**, **Python**, and **iOS Shortcuts** to create mobile-friendly personal assistants
+- 🗂️ Using **vector search**, toolchains, and context-aware workflows for agentic applications
 
-## 🚀 Tech Stack
-- **Languages & Frameworks**: Java (8–17), Spring Boot, React, Angular, TypeScript, JavaScript
-- **Cloud & DevOps**: GCP, AWS, Azure, Docker, Kubernetes, Jenkins, GitHub Actions
-- **Databases**: Spanner, BigQuery, Cassandra, MongoDB, Oracle, Neo4j
-- **Testing & Quality**: JUnit, Mockito, Cucumber, Cypress, SonarQube
-- **Other Tools**: IntelliJ, Postman, AppDynamics, Terraform, GitHub Copilot
-
----
-
-## 🧠 Current Focus
-- Building resilient cloud-native APIs at scale (GCP, Spring Boot, Pub/Sub)
-- Full-stack experimentation with React + Java microservices
-- Exploring GenAI and automation with tools like HuggingFace, OpenAI, and ChatGPT
-- Prototyping smart home and IoT systems with Raspberry Pi
+## 🔧 Other things I build:
+- Microservices & REST APIs with Spring Boot
+- End-to-end DevSecOps pipelines with GitHub Actions, Jenkins, Docker, and Kubernetes
+- Data-driven platforms with GCP BigQuery, MongoDB, Spanner, and Neo4j
+- DIY tech experiments like a Raspberry Pi–powered smart garage door
 
 ---
 
