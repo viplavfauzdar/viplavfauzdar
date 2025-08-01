@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Viplav
 
-I'm a hands-on engineering leader with 20+ years of experience building scalable backend systems, APIs, and cloud-native solutions across Fortune 1000 companies and startups. I specialize in Java, Spring Boot, microservices, and cloud platforms like AWS, GCP, and Azure.
+I'm a hands-on engineering leader with 25+ years of experience building scalable backend systems, APIs, and cloud-native solutions across Fortune 1000 companies and startups. I specialize in Java, Spring Boot, microservices, and cloud platforms like AWS, GCP, and Azure.
 
 ## 🤖 Lately, I've been building with AI:
 - 🧠 Developing **AI agents** and automation tools using **LangChain**, **Ollama**, **Gradio**, and **Streamlit**
