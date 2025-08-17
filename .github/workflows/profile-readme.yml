@@ -1,0 +1,70 @@
+name: Update profile README
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 6 * * 1" # every Monday 06:00 UTC
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout profile repo
+        uses: actions/checkout@v4
+
+      - name: Install jq (for JSON parsing)
+        run: |
+          sudo apt-get update && sudo apt-get install -y jq
+
+      - name: Fetch Medium (top 5)
+        id: medium
+        shell: bash
+        run: |
+          set -euo pipefail
+          FEED_URL="https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fmedium.com%2Ffeed%2F%40viplav.fauzdar"
+          curl -fsSL "$FEED_URL" | jq -r '
+            .items[0:5] | map("- [" + .title + "](" + .link + ")") | join("\n")
+          ' > medium_list.md
+
+      - name: Build README content
+        shell: bash
+        run: |
+          set -euo pipefail
+          README_FILE="README.md"
+          START_MARKER="<!-- medium:start -->"
+          END_MARKER="<!-- medium:end -->"
+
+          # Exit gracefully if markers aren't found in the README.
+          if ! grep -q "$START_MARKER" "$README_FILE" || ! grep -q "$END_MARKER" "$README_FILE"; then
+            echo "Markers '$START_MARKER' and '$END_MARKER' not found in $README_FILE. Skipping update."
+            exit 0
+          fi
+
+          # Use csplit to break the README into parts, preserving content outside the markers.
+          # The lines with markers themselves are suppressed from the parts.
+          csplit -s -f readme_part_ --suppress-matched "$README_FILE" "/$START_MARKER/" "/$END_MARKER/"
+
+          # Rebuild the README with the updated Medium list between the markers.
+          {
+            cat readme_part_00
+            echo "$START_MARKER"
+            cat medium_list.md
+            echo "$END_MARKER"
+            cat
+
+      - name: Commit changes (if any)
+        shell: bash
+        run: |
+          set -e
+          git config user.name "github-actions"
+          git config user.email "actions@users.noreply.github.com"
+          git add README.md
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "chore: refresh profile README"
+            git push
+          fi
