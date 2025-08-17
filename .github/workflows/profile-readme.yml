@@ -37,8 +37,11 @@ jobs:
               elif (t|test("Stream|Streaming";"i")) then "📡"
               else "✍️" end;
             .items[0:5]
-            | map("- " + ic(.title) + " [" + .title + "]( " + .link + ")")
-            | join("\n")
+            | map(
+                "- " + ic(.title) + " [" + .title + "](" + .link + ")\n" +
+                "  > " + (.description | gsub("<[^>]*>"; "") | gsub("&[^;]+;"; " ") | .[0:200] + "…")
+              )
+            | join("\n\n")
           ' > medium_list.md
 
       - name: Insert/Update Medium section above DIY Projects
