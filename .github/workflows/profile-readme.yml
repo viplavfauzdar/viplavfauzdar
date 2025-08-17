@@ -28,10 +28,20 @@ jobs:
           set -euo pipefail
           FEED_URL="https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fmedium.com%2Ffeed%2F%40viplav.fauzdar"
           curl -fsSL "$FEED_URL" | jq -r '
-            .items[0:5] | map("- [" + .title + "](" + .link + ")") | join("\n")
+            def ic(t):
+              if (t|test("STRIDE|threat|security";"i")) then "🔐"
+              elif (t|test("HVAC|DIY|Raspberry|Garage";"i")) then "🔧"
+              elif (t|test("Spring|Java|API|ELK|Log";"i")) then "🛠️"
+              elif (t|test("OpenAI|GPT|LLM|Ollama";"i")) then "🤖"
+              elif (t|test("LSTM|Trading|Stock|Market";"i")) then "📈"
+              elif (t|test("Stream|Streaming";"i")) then "📡"
+              else "✍️" end;
+            .items[0:5]
+            | map("- " + ic(.title) + " [" + .title + "]( " + .link + ")")
+            | join("\n")
           ' > medium_list.md
 
-      - name: Update Medium section in README
+      - name: Insert/Update Medium section above DIY Projects
         shell: bash
         run: |
           set -euo pipefail
@@ -39,24 +49,39 @@ jobs:
           START="<!-- medium:start -->"
           END="<!-- medium:end -->"
 
-          if ! grep -q "$START" "$README_FILE" || ! grep -q "$END" "$README_FILE"; then
-            echo "Markers not found; appending section to end of README."
-            {
-              echo
-              echo "## Latest on Medium"
-              echo "$START"
-              cat medium_list.md
-              echo "$END"
-            } >> "$README_FILE"
+          # 1) Build the Medium section into a temp file
+          {
+            echo "## Latest on Medium"
+            echo "$START"
+            cat medium_list.md
+            echo "$END"
+            echo
+          } > medium_section.tmp
+
+          # 2) Remove any existing Medium block (between START/END) from README
+          awk -v START="$START" -v END="$END" '
+            BEGIN{inblk=0}
+            index($0, START){ inblk=1; next }
+            index($0, END){ inblk=0; next }
+            !inblk{ print }
+          ' "$README_FILE" > README.clean
+
+          # 3) Insert the section before the DIY Projects heading
+          #    If the DIY heading isn't found, append at end.
+          if grep -q '^##[[:space:]]*🛠️[[:space:]]*DIY Projects' README.clean; then
+            awk '
+              /^##[[:space:]]*🛠️[[:space:]]*DIY Projects/ {
+                system("cat medium_section.tmp");
+                print; next
+              }
+              { print }
+            ' README.clean > README.new
           else
-            awk -v START="$START" -v END="$END" '
-              BEGIN{inblk=0}
-              index($0, START){ print; system("cat medium_list.md"); inblk=1; next }
-              index($0, END){ print; inblk=0; next }
-              !inblk{ print }
-            ' "$README_FILE" > README.new
-            mv README.new "$README_FILE"
+            cat README.clean medium_section.tmp > README.new
           fi
+
+          mv README.new "$README_FILE"
+          rm -f README.clean medium_section.tmp
 
       - name: Commit changes (if any)
         shell: bash
