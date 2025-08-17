@@ -37,6 +37,8 @@ I'm a hands-on engineering leader with 25+ years of experience building scalable
 - 🤖 [I Ran OpenAI’s GPT‑OSS‑20B on My MacBook Air M3 — and It Blew Me Away]( https://medium.com/@viplav.fauzdar/i-ran-openais-gpt-oss-20b-on-my-macbook-air-m3-and-it-blew-me-away-5815e62862c8?source=rss-95d48320118------2)
 <!-- medium:end -->
 
+---
+
 ## 🛠️ DIY Projects
 ### 🚪 Smart Garage Door Opener
 - Built with Raspberry Pi, MQTT, and Siri Shortcuts. Includes remote control UI and door status monitoring.
@@ -69,5 +71,3 @@ I'm a hands-on engineering leader with 25+ years of experience building scalable
 > “Innovation is not just building for today — it's solving problems before people know they have them.”
 
 Thanks for stopping by! ⭐️
-
-## Latest on Medium
