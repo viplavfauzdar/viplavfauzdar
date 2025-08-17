@@ -30,8 +30,6 @@ I'm a hands-on engineering leader with 25+ years of experience building scalable
 
 ## Latest on Medium
 
-## Latest on Medium
-
 <!-- medium:start -->
 🛠️ [From Secure Spring Boot APIs to AI-Powered Log Analytics with ELK &amp; Streamlit](https://medium.com/@viplav.fauzdar/from-secure-spring-boot-apis-to-ai-powered-log-analytics-with-elk-streamlit-195632068233?source=rss-95d48320118------2)
   > 
