@@ -33,6 +33,8 @@ I'm a hands-on engineering leader with 25+ years of experience building scalable
 ---
 
 ## Latest on Medium
+
+## Latest on Medium
 <!-- medium:start -->
 - 🛠️ [From Secure Spring Boot APIs to AI-Powered Log Analytics with ELK &amp; Streamlit]( https://medium.com/@viplav.fauzdar/from-secure-spring-boot-apis-to-ai-powered-log-analytics-with-elk-streamlit-195632068233?source=rss-95d48320118------2)
 - 🔧 [The Day My HVAC Went Rogue: DIY with AI — Condenser Motor Postmortem]( https://medium.com/@viplav.fauzdar/the-day-my-hvac-went-rogue-diy-with-ai-condenser-motor-postmortem-b7eb22f869c7?source=rss-95d48320118------2)
