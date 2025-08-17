@@ -64,7 +64,7 @@ I'm a hands-on engineering leader with 25+ years of experience building scalable
 
 ## 📫 Let's Connect
 - 🌐 [Portfolio](https://viplavfauzdar.com)
-- 📧 Email: viplav.fauzdar@gmail.com  
+- 📧 <a href="viplav.fauzdar@gmail.com">Email</a>  
 - 💼 [LinkedIn](https://www.linkedin.com/in/viplavfauzdar)  
 - 🧪 [Medium Articles](https://medium.com/@viplav.fauzdar)  
 
