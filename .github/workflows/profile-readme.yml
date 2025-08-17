@@ -46,23 +46,23 @@ jobs:
         run: |
           set -euo pipefail
           README_FILE="README.md"
-          START="<!-- medium:start -->"
-          END="<!-- medium:end -->"
+          START_MARK="<!-- medium:start -->"
+          END_MARK="<!-- medium:end -->"
 
           # 1) Build the Medium section into a temp file
           {
             echo "## Latest on Medium"
-            echo "$START"
+            echo "$START_MARK"
             cat medium_list.md
-            echo "$END"
+            echo "$END_MARK"
             echo
           } > medium_section.tmp
 
           # 2) Remove any existing Medium block (between START/END) from README
-          awk -v START="$START" -v END="$END" '
+          awk -v SM="$START_MARK" -v EM="$END_MARK" '
             BEGIN{inblk=0}
-            index($0, START){ inblk=1; next }
-            index($0, END){ inblk=0; next }
+            index($0, SM){ inblk=1; next }
+            index($0, EM){ inblk=0; next }
             !inblk{ print }
           ' "$README_FILE" > README.clean
 
