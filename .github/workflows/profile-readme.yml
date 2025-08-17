@@ -38,7 +38,7 @@ jobs:
               else "✍️" end;
             .items[0:5]
             | map(
-                "- " + ic(.title) + " [" + .title + "](" + .link + ")\n" +
+                ic(.title) + " [" + .title + "](" + .link + ")\n" +
                 "  > " + (.description | gsub("<[^>]*>"; "") | gsub("&[^;]+;"; " ") | .[0:200] + "…")
               )
             | join("\n\n")
@@ -54,7 +54,6 @@ jobs:
 
           # 1) Build the Medium section into a temp file
           {
-            echo "## Latest on Medium"
             echo "$START_MARK"
             cat medium_list.md
             echo "$END_MARK"
