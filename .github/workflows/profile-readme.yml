@@ -31,31 +31,32 @@ jobs:
             .items[0:5] | map("- [" + .title + "](" + .link + ")") | join("\n")
           ' > medium_list.md
 
-      - name: Build README content
+      - name: Update Medium section in README
         shell: bash
         run: |
           set -euo pipefail
           README_FILE="README.md"
-          START_MARKER="<!-- medium:start -->"
-          END_MARKER="<!-- medium:end -->"
+          START="<!-- medium:start -->"
+          END="<!-- medium:end -->"
 
-          # Exit gracefully if markers aren't found in the README.
-          if ! grep -q "$START_MARKER" "$README_FILE" || ! grep -q "$END_MARKER" "$README_FILE"; then
-            echo "Markers '$START_MARKER' and '$END_MARKER' not found in $README_FILE. Skipping update."
-            exit 0
+          if ! grep -q "$START" "$README_FILE" || ! grep -q "$END" "$README_FILE"; then
+            echo "Markers not found; appending section to end of README."
+            {
+              echo
+              echo "## Latest on Medium"
+              echo "$START"
+              cat medium_list.md
+              echo "$END"
+            } >> "$README_FILE"
+          else
+            awk -v START="$START" -v END="$END" '
+              BEGIN{inblk=0}
+              index($0, START){ print; system("cat medium_list.md"); inblk=1; next }
+              index($0, END){ print; inblk=0; next }
+              !inblk{ print }
+            ' "$README_FILE" > README.new
+            mv README.new "$README_FILE"
           fi
-
-          # Use csplit to break the README into parts, preserving content outside the markers.
-          # The lines with markers themselves are suppressed from the parts.
-          csplit -s -f readme_part_ --suppress-matched "$README_FILE" "/$START_MARKER/" "/$END_MARKER/"
-
-          # Rebuild the README with the updated Medium list between the markers.
-          {
-            cat readme_part_00
-            echo "$START_MARKER"
-            cat medium_list.md
-            echo "$END_MARKER"
-            cat
 
       - name: Commit changes (if any)
         shell: bash
