@@ -32,7 +32,12 @@ I'm a hands-on engineering leader with 25+ years of experience building scalable
 
 
 
+
 <!-- medium:start -->
+🛠️ [From Spring Boot to AWS with Terraform + GitHub Actions: End-to-End Automation](https://medium.com/@viplav.fauzdar/from-spring-boot-to-aws-with-terraform-github-actions-end-to-end-automation-129bf6d6fd4e?source=rss-95d48320118------2)
+  > 
+When you’re building a personal project, deploying it reliably to the cloud shouldn’t feel like climbing Everest. In this post, I’ll walk through how I took a Spring Boot REST API and automated its d…
+
 🛠️ [From Secure Spring Boot APIs to AI-Powered Log Analytics with ELK and Streamlit](https://medium.com/@viplav.fauzdar/from-secure-spring-boot-apis-to-ai-powered-log-analytics-with-elk-streamlit-195632068233?source=rss-95d48320118------2)
   > 
 🔑 Introduction
@@ -55,11 +60,6 @@ Modern software delivery moves fast — but so do security threats. Instead 
 ✍️ [Vibe Coding vs. Reality: Why Weekend Projects Don’t Survive in Enterprise](https://medium.com/@viplav.fauzdar/vibe-coding-vs-reality-why-weekend-projects-dont-survive-in-enterprise-e69198fb4985?source=rss-95d48320118------2)
   > 
 We live in an age where “AI will write all your code” has become the tech world’s favorite elevator pitch. From weekend hackathons to flashy conference demos, “vibe coding” is in — just describe what…
-
-🤖 [I Ran OpenAI’s GPT‑OSS‑20B on My MacBook Air M3 — and It Blew Me Away](https://medium.com/@viplav.fauzdar/i-ran-openais-gpt-oss-20b-on-my-macbook-air-m3-and-it-blew-me-away-5815e62862c8?source=rss-95d48320118------2)
-  > 
-🚀 I Ran OpenAI’s GPT‑OSS‑20B on My MacBook Air M3 — and It Blew Me Away
-August 6, 2025 — In a historic shift toward open and accessible AI, OpenAI just released GPT‑OSS‑20B, a compact yet powerful Mi…
 <!-- medium:end -->
 
 ## 🛠️ DIY Projects
