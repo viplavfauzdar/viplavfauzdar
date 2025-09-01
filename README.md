@@ -34,7 +34,12 @@ I'm a hands-on engineering leader with 25+ years of experience building scalable
 
 
 
+
 <!-- medium:start -->
+🤖 [Running Multiple Open-Source LLMs on OCI’s Free ARM Tier with Ollama + Open WebUI](https://medium.com/@viplav.fauzdar/running-multiple-open-source-llms-on-ocis-free-arm-tier-with-ollama-open-webui-f3193df00dc9?source=rss-95d48320118------2)
+  > 
+Like many AI engineers, I love experimenting with large language models (LLMs). But spinning up cloud GPUs can get expensive fast. That’s why Oracle Cloud Infrastructure (OCI) has become one of my fa…
+
 🛠️ [From Spring Boot to AWS with Terraform + GitHub Actions: End-to-End Automation](https://medium.com/@viplav.fauzdar/from-spring-boot-to-aws-with-terraform-github-actions-end-to-end-automation-129bf6d6fd4e?source=rss-95d48320118------2)
   > 
 When you’re building a personal project, deploying it reliably to the cloud shouldn’t feel like climbing Everest. In this post, I’ll walk through how I took a Spring Boot REST API and automated its d…
@@ -57,10 +62,6 @@ Atlanta. August. That special kind of heat wh…
 🔐 [️ Automating STRIDE Threat Reviews in CI with AI](https://medium.com/@viplav.fauzdar/%EF%B8%8F-automating-stride-threat-reviews-in-ci-with-ai-105772d09c29?source=rss-95d48320118------2)
   > 
 Modern software delivery moves fast — but so do security threats. Instead of waiting for periodic manual reviews, you can automate threat modeling directly in your CI/CD pipeline. This guide shows yo…
-
-✍️ [Vibe Coding vs. Reality: Why Weekend Projects Don’t Survive in Enterprise](https://medium.com/@viplav.fauzdar/vibe-coding-vs-reality-why-weekend-projects-dont-survive-in-enterprise-e69198fb4985?source=rss-95d48320118------2)
-  > 
-We live in an age where “AI will write all your code” has become the tech world’s favorite elevator pitch. From weekend hackathons to flashy conference demos, “vibe coding” is in — just describe what…
 <!-- medium:end -->
 
 ## 🛠️ DIY Projects
