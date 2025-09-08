@@ -35,7 +35,14 @@ I'm a hands-on engineering leader with 25+ years of experience building scalable
 
 
 
+
 <!-- medium:start -->
+🤖 [️ Building a GPT-Realtime Voice Assistant with WebRTC](https://medium.com/@viplav.fauzdar/%EF%B8%8F-building-a-gpt-realtime-voice-assistant-with-webrtc-fe6dd4c8f488?source=rss-95d48320118------2)
+  > 
+🚀 Why Realtime Matters
+When OpenAI launched gpt-realtime, it unlocked something developers have been dreaming of: true, low-latency voice conversations with an LLM.
+Unlike the old request/response AP…
+
 🤖 [Running Multiple Open-Source LLMs on OCI’s Free ARM Tier with Ollama + Open WebUI](https://medium.com/@viplav.fauzdar/running-multiple-open-source-llms-on-ocis-free-arm-tier-with-ollama-open-webui-f3193df00dc9?source=rss-95d48320118------2)
   > 
 Like many AI engineers, I love experimenting with large language models (LLMs). But spinning up cloud GPUs can get expensive fast. That’s why Oracle Cloud Infrastructure (OCI) has become one of my fa…
@@ -58,10 +65,6 @@ Spoiler: It worked again. But my wallet still needed therapy.
 
 🔥 The Setup
 Atlanta. August. That special kind of heat wh…
-
-🔐 [️ Automating STRIDE Threat Reviews in CI with AI](https://medium.com/@viplav.fauzdar/%EF%B8%8F-automating-stride-threat-reviews-in-ci-with-ai-105772d09c29?source=rss-95d48320118------2)
-  > 
-Modern software delivery moves fast — but so do security threats. Instead of waiting for periodic manual reviews, you can automate threat modeling directly in your CI/CD pipeline. This guide shows yo…
 <!-- medium:end -->
 
 ## 🛠️ DIY Projects
