@@ -36,6 +36,7 @@ I'm a hands-on engineering leader with 25+ years of experience building scalable
 
 
 
+
 <!-- medium:start -->
 🤖 [️ Building a GPT-Realtime Voice Assistant with WebRTC](https://medium.com/@viplav.fauzdar/%EF%B8%8F-building-a-gpt-realtime-voice-assistant-with-webrtc-fe6dd4c8f488?source=rss-95d48320118------2)
   > 
