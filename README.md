@@ -38,7 +38,17 @@ I'm a hands-on engineering leader with 25+ years of experience building scalable
 
 
 
+
 <!-- medium:start -->
+🛠️ [Building a Mini Observability POC with Spring Boot, OpenTelemetry, Tempo, Prometheus, and Grafana](https://medium.com/@viplav.fauzdar/building-a-mini-observability-poc-with-spring-boot-opentelemetry-tempo-prometheus-and-grafana-0b15e084dd89?source=rss-95d48320118------2)
+  > 
+Observability isn’t just a buzzword — it’s how we gain real insight into modern distributed applications. Recently, I put together a mini observability proof of concept (POC) to wire up a Spring Boot…
+
+✍️ [Running Apache Spark and Kafka Locally with Docker: A Data Engineering POC](https://medium.com/@viplav.fauzdar/running-apache-spark-locally-with-docker-an-iot-data-engineering-poc-aa4575fa7e7e?source=rss-95d48320118------2)
+  > 
+Introduction
+Data engineering often feels like an “enterprise-only” playground — with clusters, managed cloud services, and endless configuration. But what if you could spin up Apache Spark on your l…
+
 🤖 [️ Building a GPT-Realtime Voice Assistant with WebRTC](https://medium.com/@viplav.fauzdar/%EF%B8%8F-building-a-gpt-realtime-voice-assistant-with-webrtc-fe6dd4c8f488?source=rss-95d48320118------2)
   > 
 🚀 Why Realtime Matters
@@ -52,21 +62,6 @@ Like many AI engineers, I love experimenting with large language models (LLMs). 
 🛠️ [From Spring Boot to AWS with Terraform + GitHub Actions: End-to-End Automation](https://medium.com/@viplav.fauzdar/from-spring-boot-to-aws-with-terraform-github-actions-end-to-end-automation-129bf6d6fd4e?source=rss-95d48320118------2)
   > 
 When you’re building a personal project, deploying it reliably to the cloud shouldn’t feel like climbing Everest. In this post, I’ll walk through how I took a Spring Boot REST API and automated its d…
-
-🛠️ [From Secure Spring Boot APIs to AI-Powered Log Analytics with ELK and Streamlit](https://medium.com/@viplav.fauzdar/from-secure-spring-boot-apis-to-ai-powered-log-analytics-with-elk-streamlit-195632068233?source=rss-95d48320118------2)
-  > 
-🔑 Introduction
-Most Spring Boot tutorials stop at building APIs. But in today’s world, applications need security, observability, and AI-powered insights baked in from day one.
-In this project, we st…
-
-🔧 [The Day My HVAC Went Rogue: DIY with AI — Condenser Motor Postmortem](https://medium.com/@viplav.fauzdar/the-day-my-hvac-went-rogue-diy-with-ai-condenser-motor-postmortem-b7eb22f869c7?source=rss-95d48320118------2)
-  > 
-…aka “How I Accidentally Became an HVAC Technician (with a little AI backup)”
-
-Spoiler: It worked again. But my wallet still needed therapy.
-
-🔥 The Setup
-Atlanta. August. That special kind of heat wh…
 <!-- medium:end -->
 
 ## 🛠️ DIY Projects
