@@ -39,7 +39,13 @@ I'm a hands-on engineering leader with 25+ years of experience building scalable
 
 
 
+
 <!-- medium:start -->
+✍️ [Building an Apache Airflow POC with Docker Compose — A Hands-On Guide](https://medium.com/@viplav.fauzdar/building-an-apache-airflow-poc-with-docker-compose-a-hands-on-guide-93dacf2d0ffd?source=rss-95d48320118------2)
+  > 
+🚀 Building an Apache Airflow POC with Docker Compose — A Hands-On Guide
+Apache Airflow is one of the most popular open-source platforms for orchestrating data pipelines. But setting it up from scratc…
+
 🛠️ [Building a Mini Observability POC with Spring Boot, OpenTelemetry, Tempo, Prometheus, and Grafana](https://medium.com/@viplav.fauzdar/building-a-mini-observability-poc-with-spring-boot-opentelemetry-tempo-prometheus-and-grafana-0b15e084dd89?source=rss-95d48320118------2)
   > 
 Observability isn’t just a buzzword — it’s how we gain real insight into modern distributed applications. Recently, I put together a mini observability proof of concept (POC) to wire up a Spring Boot…
@@ -58,10 +64,6 @@ Unlike the old request/response AP…
 🤖 [Running Multiple Open-Source LLMs on OCI’s Free ARM Tier with Ollama + Open WebUI](https://medium.com/@viplav.fauzdar/running-multiple-open-source-llms-on-ocis-free-arm-tier-with-ollama-open-webui-f3193df00dc9?source=rss-95d48320118------2)
   > 
 Like many AI engineers, I love experimenting with large language models (LLMs). But spinning up cloud GPUs can get expensive fast. That’s why Oracle Cloud Infrastructure (OCI) has become one of my fa…
-
-🛠️ [From Spring Boot to AWS with Terraform + GitHub Actions: End-to-End Automation](https://medium.com/@viplav.fauzdar/from-spring-boot-to-aws-with-terraform-github-actions-end-to-end-automation-129bf6d6fd4e?source=rss-95d48320118------2)
-  > 
-When you’re building a personal project, deploying it reliably to the cloud shouldn’t feel like climbing Everest. In this post, I’ll walk through how I took a Spring Boot REST API and automated its d…
 <!-- medium:end -->
 
 ## 🛠️ DIY Projects
