@@ -42,7 +42,20 @@ I'm a hands-on engineering leader with 25+ years of experience building scalable
 
 
 
+
 <!-- medium:start -->
+📡 [Building a Multi-Agent Research &amp; Writing System with CrewAI and Streamlit](https://medium.com/@viplav.fauzdar/building-a-multi-agent-research-writing-system-with-crewai-and-streamlit-0604e6ac9ffc?source=rss-95d48320118------2)
+  > 
+How I built a working POC where an AI Researcher, Writer, and Reviewer collaborate to produce a publishable article
+🧩 The Idea
+What if three AI agents could work together — like a newsroom team — to …
+
+🤖 [Building a Local AI Agent with Google ADK, LiteLLM, and Ollama](https://medium.com/@viplav.fauzdar/building-a-local-ai-agent-with-google-adk-litellm-and-ollama-6e907e2db268?source=rss-95d48320118------2)
+  > 
+How I connected Google’s Agent Development Kit (ADK) to Ollama for a tool-enabled local agent — -without any cloud dependencies.
+🚀 Why I Built This
+Most AI frameworks today assume a cloud-hosted mode…
+
 ✍️ [Building an Apache Airflow POC with Docker Compose — A Hands-On Guide](https://medium.com/@viplav.fauzdar/building-an-apache-airflow-poc-with-docker-compose-a-hands-on-guide-93dacf2d0ffd?source=rss-95d48320118------2)
   > 
 🚀 Building an Apache Airflow POC with Docker Compose — A Hands-On Guide
@@ -56,16 +69,6 @@ Observability isn’t just a buzzword — it’s how we gain real insight in
   > 
 Introduction
 Data engineering often feels like an “enterprise-only” playground — with clusters, managed cloud services, and endless configuration. But what if you could spin up Apache Spark on your l…
-
-🤖 [️ Building a GPT-Realtime Voice Assistant with WebRTC](https://medium.com/@viplav.fauzdar/%EF%B8%8F-building-a-gpt-realtime-voice-assistant-with-webrtc-fe6dd4c8f488?source=rss-95d48320118------2)
-  > 
-🚀 Why Realtime Matters
-When OpenAI launched gpt-realtime, it unlocked something developers have been dreaming of: true, low-latency voice conversations with an LLM.
-Unlike the old request/response AP…
-
-🤖 [Running Multiple Open-Source LLMs on OCI’s Free ARM Tier with Ollama + Open WebUI](https://medium.com/@viplav.fauzdar/running-multiple-open-source-llms-on-ocis-free-arm-tier-with-ollama-open-webui-f3193df00dc9?source=rss-95d48320118------2)
-  > 
-Like many AI engineers, I love experimenting with large language models (LLMs). But spinning up cloud GPUs can get expensive fast. That’s why Oracle Cloud Infrastructure (OCI) has become one of my fa…
 <!-- medium:end -->
 
 ## 🛠️ DIY Projects
