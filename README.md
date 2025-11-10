@@ -44,7 +44,13 @@ I'm a hands-on engineering leader with 25+ years of experience building scalable
 
 
 
+
 <!-- medium:start -->
+🤖 [The Model Context Protocol (MCP) — and How to Build a Visual MCP Client with Ollama + Streamlit](https://medium.com/@viplav.fauzdar/the-model-context-protocol-mcp-and-how-to-build-a-visual-mcp-client-with-ollama-streamlit-2b0e61b1c088?source=rss-95d48320118------2)
+  > 
+🔌 The Model Context Protocol (MCP) — and How to Build a Visual MCP Client with Ollama + Streamlit
+Estimated reading time: 10 minutesTags: #AI Agents #MCP #Ollama #LangChain #OpenSource #Streamlit #De…
+
 📡 [Building a Multi-Agent Research &amp; Writing System with CrewAI and Streamlit](https://medium.com/@viplav.fauzdar/building-a-multi-agent-research-writing-system-with-crewai-and-streamlit-0604e6ac9ffc?source=rss-95d48320118------2)
   > 
 How I built a working POC where an AI Researcher, Writer, and Reviewer collaborate to produce a publishable article
@@ -65,11 +71,6 @@ Apache Airflow is one of the most popular open-source platforms for orchestratin
 🛠️ [Building a Mini Observability POC with Spring Boot, OpenTelemetry, Tempo, Prometheus, and Grafana](https://medium.com/@viplav.fauzdar/building-a-mini-observability-poc-with-spring-boot-opentelemetry-tempo-prometheus-and-grafana-0b15e084dd89?source=rss-95d48320118------2)
   > 
 Observability isn’t just a buzzword — it’s how we gain real insight into modern distributed applications. Recently, I put together a mini observability proof of concept (POC) to wire up a Spring Boot…
-
-✍️ [Running Apache Spark and Kafka Locally with Docker: A Data Engineering POC](https://medium.com/@viplav.fauzdar/running-apache-spark-locally-with-docker-an-iot-data-engineering-poc-aa4575fa7e7e?source=rss-95d48320118------2)
-  > 
-Introduction
-Data engineering often feels like an “enterprise-only” playground — with clusters, managed cloud services, and endless configuration. But what if you could spin up Apache Spark on your l…
 <!-- medium:end -->
 
 ## 🛠️ DIY Projects
