@@ -45,7 +45,20 @@ I'm a hands-on engineering leader with 25+ years of experience building scalable
 
 
 
+
 <!-- medium:start -->
+🛠️ [Quarkus vs Spring Boot — The Cloud-Native Java Showdown for 2025](https://medium.com/@viplav.fauzdar/quarkus-vs-spring-boot-the-cloud-native-java-showdown-for-2025-deb8bd990894?source=rss-95d48320118------2)
+  > 
+🚀 Quarkus vs Spring Boot — The Cloud-Native Java Showdown for 2025
+Why Quarkus exists, how it’s different from Spring Boot, and when you’d choose one over the other
+Modern Java has two dominant world…
+
+✍️ [From TDD to ADD: The Dawn of AI-Driven Development](https://medium.com/@viplav.fauzdar/from-tdd-to-add-the-dawn-of-ai-driven-development-02566abb4e1d?source=rss-95d48320118------2)
+  > 
+🚀 The Shift from Human-Centric to AI-Collaborative Coding
+For decades, software engineering has evolved around human-driven methodologies —
+from Test-Driven Development (TDD) to Behavior-Driven Devel…
+
 🤖 [The Model Context Protocol (MCP) — and How to Build a Visual MCP Client with Ollama + Streamlit](https://medium.com/@viplav.fauzdar/the-model-context-protocol-mcp-and-how-to-build-a-visual-mcp-client-with-ollama-streamlit-2b0e61b1c088?source=rss-95d48320118------2)
   > 
 🔌 The Model Context Protocol (MCP) — and How to Build a Visual MCP Client with Ollama + Streamlit
@@ -62,15 +75,6 @@ What if three AI agents could work together — like a newsroom team —�
 How I connected Google’s Agent Development Kit (ADK) to Ollama for a tool-enabled local agent — -without any cloud dependencies.
 🚀 Why I Built This
 Most AI frameworks today assume a cloud-hosted mode…
-
-✍️ [Building an Apache Airflow POC with Docker Compose — A Hands-On Guide](https://medium.com/@viplav.fauzdar/building-an-apache-airflow-poc-with-docker-compose-a-hands-on-guide-93dacf2d0ffd?source=rss-95d48320118------2)
-  > 
-🚀 Building an Apache Airflow POC with Docker Compose — A Hands-On Guide
-Apache Airflow is one of the most popular open-source platforms for orchestrating data pipelines. But setting it up from scratc…
-
-🛠️ [Building a Mini Observability POC with Spring Boot, OpenTelemetry, Tempo, Prometheus, and Grafana](https://medium.com/@viplav.fauzdar/building-a-mini-observability-poc-with-spring-boot-opentelemetry-tempo-prometheus-and-grafana-0b15e084dd89?source=rss-95d48320118------2)
-  > 
-Observability isn’t just a buzzword — it’s how we gain real insight into modern distributed applications. Recently, I put together a mini observability proof of concept (POC) to wire up a Spring Boot…
 <!-- medium:end -->
 
 ## 🛠️ DIY Projects
