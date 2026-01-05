@@ -52,6 +52,7 @@ I'm a hands-on engineering leader with 25+ years of experience building scalable
 
 
 
+
 <!-- medium:start -->
 🛠️ [Quarkus vs Spring Boot — The Cloud-Native Java Showdown for 2025](https://medium.com/@viplav.fauzdar/quarkus-vs-spring-boot-the-cloud-native-java-showdown-for-2025-deb8bd990894?source=rss-95d48320118------2)
   > 
