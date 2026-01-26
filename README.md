@@ -55,7 +55,19 @@ I'm a hands-on engineering leader with 25+ years of experience building scalable
 
 
 
+
 <!-- medium:start -->
+✍️ [The ADD Manifesto: AI-Driven Development as the Next Evolution After TDD](https://medium.com/@viplav.fauzdar/the-add-manifesto-ai-driven-development-as-the-next-evolution-after-tdd-c5875eba674b?source=rss-95d48320118------2)
+  > 
+Why senior software engineers must move from AI-assisted coding to AI-driven systems
+Artificial intelligence is rapidly changing how software is written, tested, and maintained.
+Yet most teams today …
+
+✍️ [From TDD to ADD (Part 2): What AI-Driven Development Looks Like in Practice](https://medium.com/@viplav.fauzdar/from-tdd-to-add-part-2-what-ai-driven-development-looks-like-in-practice-679d06e33759?source=rss-95d48320118------2)
+  > 
+In Part 1, we traced the evolution from Test-Driven Development (TDD) to what I call AI-Driven Development (ADD) — not as a tool shift, but as a mindset shift.
+In this follow-up, let’s answer the rea…
+
 🛠️ [Quarkus vs Spring Boot — The Cloud-Native Java Showdown for 2025](https://medium.com/@viplav.fauzdar/quarkus-vs-spring-boot-the-cloud-native-java-showdown-for-2025-deb8bd990894?source=rss-95d48320118------2)
   > 
 🚀 Quarkus vs Spring Boot — The Cloud-Native Java Showdown for 2025
@@ -72,18 +84,6 @@ from Test-Driven Development (TDD) to Behavior-Driven Devel…
   > 
 🔌 The Model Context Protocol (MCP) — and How to Build a Visual MCP Client with Ollama + Streamlit
 Estimated reading time: 10 minutesTags: #AI Agents #MCP #Ollama #LangChain #OpenSource #Streamlit #De…
-
-📡 [Building a Multi-Agent Research &amp; Writing System with CrewAI and Streamlit](https://medium.com/@viplav.fauzdar/building-a-multi-agent-research-writing-system-with-crewai-and-streamlit-0604e6ac9ffc?source=rss-95d48320118------2)
-  > 
-How I built a working POC where an AI Researcher, Writer, and Reviewer collaborate to produce a publishable article
-🧩 The Idea
-What if three AI agents could work together — like a newsroom team — to …
-
-🤖 [Building a Local AI Agent with Google ADK, LiteLLM, and Ollama](https://medium.com/@viplav.fauzdar/building-a-local-ai-agent-with-google-adk-litellm-and-ollama-6e907e2db268?source=rss-95d48320118------2)
-  > 
-How I connected Google’s Agent Development Kit (ADK) to Ollama for a tool-enabled local agent — -without any cloud dependencies.
-🚀 Why I Built This
-Most AI frameworks today assume a cloud-hosted mode…
 <!-- medium:end -->
 
 ## 🛠️ DIY Projects
