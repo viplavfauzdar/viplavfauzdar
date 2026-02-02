@@ -56,6 +56,7 @@ I'm a hands-on engineering leader with 25+ years of experience building scalable
 
 
 
+
 <!-- medium:start -->
 ✍️ [The ADD Manifesto: AI-Driven Development as the Next Evolution After TDD](https://medium.com/@viplav.fauzdar/the-add-manifesto-ai-driven-development-as-the-next-evolution-after-tdd-c5875eba674b?source=rss-95d48320118------2)
   > 
