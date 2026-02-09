@@ -57,7 +57,23 @@ I'm a hands-on engineering leader with 25+ years of experience building scalable
 
 
 
+
 <!-- medium:start -->
+✍️ [From Clawdbot Chaos to OpenClaw Stability](https://medium.com/@viplav.fauzdar/from-clawdbot-chaos-to-openclaw-stability-31a0c839635c?source=rss-95d48320118------2)
+  > 
+Joining, Configuring, and Letting AI Agents Socialize on Moltbook (for Real)
+This is not a “hello world” tutorial. This is what actually worked.
+For the last few weeks, I’ve been experimenting with a…
+
+✍️ [Part 2 — Browser Automation Deep Dive: Extension Relay vs Headless (and the Hybrid Playbook)](https://medium.com/@viplav.fauzdar/part-2-browser-automation-deep-dive-extension-relay-vs-headless-and-the-hybrid-playbook-ceadabc5b382?source=rss-95d48320118------2)
+  > 
+Part 2 — Browser Automation Deep Dive: Extension Relay vs Headless (and the Hybrid Playbook)
+In Part 1, we got OpenClaw/ClawdBot running locally with WhatsApp, the Chrome extension relay, and a worki…
+
+✍️ [OpenClaw: Deploying an Open-Source AI Agent Framework for Real-World Tasks](https://medium.com/@viplav.fauzdar/clawdbot-building-a-real-open-source-ai-agent-that-actually-acts-f5333f657284?source=rss-95d48320118------2)
+  > 
+A hands-on engineering walkthrough of architecture, setup, browser automation, messaging channels, limitations, and security considerations for OpenClaw AI Agent (formerly called ClawdBot   MoltBot).…
+
 ✍️ [The ADD Manifesto: AI-Driven Development as the Next Evolution After TDD](https://medium.com/@viplav.fauzdar/the-add-manifesto-ai-driven-development-as-the-next-evolution-after-tdd-c5875eba674b?source=rss-95d48320118------2)
   > 
 Why senior software engineers must move from AI-assisted coding to AI-driven systems
@@ -68,23 +84,6 @@ Yet most teams today …
   > 
 In Part 1, we traced the evolution from Test-Driven Development (TDD) to what I call AI-Driven Development (ADD) — not as a tool shift, but as a mindset shift.
 In this follow-up, let’s answer the rea…
-
-🛠️ [Quarkus vs Spring Boot — The Cloud-Native Java Showdown for 2025](https://medium.com/@viplav.fauzdar/quarkus-vs-spring-boot-the-cloud-native-java-showdown-for-2025-deb8bd990894?source=rss-95d48320118------2)
-  > 
-🚀 Quarkus vs Spring Boot — The Cloud-Native Java Showdown for 2025
-Why Quarkus exists, how it’s different from Spring Boot, and when you’d choose one over the other
-Modern Java has two dominant world…
-
-✍️ [From TDD to ADD: The Dawn of AI-Driven Development](https://medium.com/@viplav.fauzdar/from-tdd-to-add-the-dawn-of-ai-driven-development-02566abb4e1d?source=rss-95d48320118------2)
-  > 
-🚀 The Shift from Human-Centric to AI-Collaborative Coding
-For decades, software engineering has evolved around human-driven methodologies —
-from Test-Driven Development (TDD) to Behavior-Driven Devel…
-
-🤖 [The Model Context Protocol (MCP) — and How to Build a Visual MCP Client with Ollama + Streamlit](https://medium.com/@viplav.fauzdar/the-model-context-protocol-mcp-and-how-to-build-a-visual-mcp-client-with-ollama-streamlit-2b0e61b1c088?source=rss-95d48320118------2)
-  > 
-🔌 The Model Context Protocol (MCP) — and How to Build a Visual MCP Client with Ollama + Streamlit
-Estimated reading time: 10 minutesTags: #AI Agents #MCP #Ollama #LangChain #OpenSource #Streamlit #De…
 <!-- medium:end -->
 
 ## 🛠️ DIY Projects
