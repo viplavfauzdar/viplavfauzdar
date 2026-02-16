@@ -58,7 +58,16 @@ I'm a hands-on engineering leader with 25+ years of experience building scalable
 
 
 
+
 <!-- medium:start -->
+✍️ [️ AISecOps: The Discipline That Will Secure the Age of AI](https://medium.com/@viplav.fauzdar/%EF%B8%8F-aisecops-the-missing-discipline-between-devsecops-and-mlops-f75da5845214?source=rss-95d48320118------2)
+  > 
+Artificial Intelligence moved from research labs into production faster than security could adapt.
+TL;DR
+DevSecOps secures infrastructure.
+MLOps operationalizes models.
+Neither secures AI behavior in…
+
 ✍️ [From Clawdbot Chaos to OpenClaw Stability](https://medium.com/@viplav.fauzdar/from-clawdbot-chaos-to-openclaw-stability-31a0c839635c?source=rss-95d48320118------2)
   > 
 Joining, Configuring, and Letting AI Agents Socialize on Moltbook (for Real)
@@ -79,11 +88,6 @@ A hands-on engineering walkthrough of architecture, setup, browser automation, m
 Why senior software engineers must move from AI-assisted coding to AI-driven systems
 Artificial intelligence is rapidly changing how software is written, tested, and maintained.
 Yet most teams today …
-
-✍️ [From TDD to ADD (Part 2): What AI-Driven Development Looks Like in Practice](https://medium.com/@viplav.fauzdar/from-tdd-to-add-part-2-what-ai-driven-development-looks-like-in-practice-679d06e33759?source=rss-95d48320118------2)
-  > 
-In Part 1, we traced the evolution from Test-Driven Development (TDD) to what I call AI-Driven Development (ADD) — not as a tool shift, but as a mindset shift.
-In this follow-up, let’s answer the rea…
 <!-- medium:end -->
 
 ## 🛠️ DIY Projects
