@@ -59,7 +59,45 @@ I'm a hands-on engineering leader with 25+ years of experience building scalable
 
 
 
+
 <!-- medium:start -->
+✍️ [Securing AI Agents in the Enterprise: Building an AISecOps Plugin for OpenClaw](https://medium.com/@viplav.fauzdar/securing-ai-agents-in-the-enterprise-building-an-aisecops-plugin-for-openclaw-f4adede08d4b?source=rss-95d48320118------2)
+  > 
+AI agents are moving from experimentation to execution.
+They create Jira tickets.
+They deploy infrastructure.
+They query internal systems.
+They mutate production data.
+That’s powerful.
+It’s also dang…
+
+✍️ [Sandboxing AI Tools in OpenClaw: A Practical AISecOps Pattern](https://medium.com/@viplav.fauzdar/sandboxing-moltbook-in-openclaw-with-a-docker-node-844a749d3442?source=rss-95d48320118------2)
+  > 
+From “Cool POC” to Practical AISecOps Architecture
+Most people experimenting with OpenClaw run everything on a single machine:
+
+Gateway
+Agent
+Tool execution
+API keys
+
+It works. It’s convenient.
+It’s …
+
+✍️ [AISecOps Manifesto](https://medium.com/@viplav.fauzdar/aisecops-manifesto-9667baaf5603?source=rss-95d48320118------2)
+  > 
+Principles for Securing Agentic Systems
+As AI systems move from passive chat interfaces to autonomous agents with tool access, traditional DevSecOps is no longer sufficient.
+AISecOps is the disciplin…
+
+✍️ [Sandboxing Moltbook in OpenClaw with a Docker Node (and Why It Matters)](https://medium.com/@viplav.fauzdar/sandboxing-moltbook-in-openclaw-with-a-docker-node-and-why-it-matters-33c785fbcf21?source=rss-95d48320118------2)
+  > 
+OpenClaw mental model: Gateway vs Agent vs Node
+Before the build log, here’s the simplest way to think about OpenClaw’s moving parts:
+
+
+Gateway: the hub. Receives messages/events, runs routing, hosts…
+
 ✍️ [️ AISecOps: The Discipline That Will Secure the Age of AI](https://medium.com/@viplav.fauzdar/%EF%B8%8F-aisecops-the-missing-discipline-between-devsecops-and-mlops-f75da5845214?source=rss-95d48320118------2)
   > 
 Artificial Intelligence moved from research labs into production faster than security could adapt.
@@ -67,27 +105,6 @@ TL;DR
 DevSecOps secures infrastructure.
 MLOps operationalizes models.
 Neither secures AI behavior in…
-
-✍️ [From Clawdbot Chaos to OpenClaw Stability](https://medium.com/@viplav.fauzdar/from-clawdbot-chaos-to-openclaw-stability-31a0c839635c?source=rss-95d48320118------2)
-  > 
-Joining, Configuring, and Letting AI Agents Socialize on Moltbook (for Real)
-This is not a “hello world” tutorial. This is what actually worked.
-For the last few weeks, I’ve been experimenting with a…
-
-✍️ [Part 2 — Browser Automation Deep Dive: Extension Relay vs Headless (and the Hybrid Playbook)](https://medium.com/@viplav.fauzdar/part-2-browser-automation-deep-dive-extension-relay-vs-headless-and-the-hybrid-playbook-ceadabc5b382?source=rss-95d48320118------2)
-  > 
-Part 2 — Browser Automation Deep Dive: Extension Relay vs Headless (and the Hybrid Playbook)
-In Part 1, we got OpenClaw/ClawdBot running locally with WhatsApp, the Chrome extension relay, and a worki…
-
-✍️ [OpenClaw: Deploying an Open-Source AI Agent Framework for Real-World Tasks](https://medium.com/@viplav.fauzdar/clawdbot-building-a-real-open-source-ai-agent-that-actually-acts-f5333f657284?source=rss-95d48320118------2)
-  > 
-A hands-on engineering walkthrough of architecture, setup, browser automation, messaging channels, limitations, and security considerations for OpenClaw AI Agent (formerly called ClawdBot   MoltBot).…
-
-✍️ [The ADD Manifesto: AI-Driven Development as the Next Evolution After TDD](https://medium.com/@viplav.fauzdar/the-add-manifesto-ai-driven-development-as-the-next-evolution-after-tdd-c5875eba674b?source=rss-95d48320118------2)
-  > 
-Why senior software engineers must move from AI-assisted coding to AI-driven systems
-Artificial intelligence is rapidly changing how software is written, tested, and maintained.
-Yet most teams today …
 <!-- medium:end -->
 
 ## 🛠️ DIY Projects
