@@ -60,7 +60,24 @@ I'm a hands-on engineering leader with 25+ years of experience building scalable
 
 
 
+
 <!-- medium:start -->
+✍️ [Building an AISecOps Runtime: Securing RAG and Agentic AI Systems with Real-Time Telemetry](https://medium.com/@viplav.fauzdar/building-an-aisecops-runtime-securing-rag-and-agentic-ai-systems-with-real-time-telemetry-c4fc3d36c0de?source=rss-95d48320118------2)
+  > 
+AI systems are no longer static models behind APIs.
+They retrieve external data.
+They call tools.
+They execute workflows.
+And that means they can be attacked.
+While most discussions focus on model sa…
+
+🔐 [A Threat Model for Agentic AI (MCP, A2A &amp; Swarm Systems)](https://medium.com/@viplav.fauzdar/a-threat-model-for-agentic-ai-mcp-a2a-swarm-systems-f04cfcfa52ca?source=rss-95d48320118------2)
+  > 
+There’s a dangerous misunderstanding spreading across the agentic AI ecosystem:
+Guardrails are not content filters.
+In single-model chat systems, safety meant blocking harmful outputs.
+In agentic sys…
+
 ✍️ [Securing AI Agents in the Enterprise: Building an AISecOps Plugin for OpenClaw](https://medium.com/@viplav.fauzdar/securing-ai-agents-in-the-enterprise-building-an-aisecops-plugin-for-openclaw-f4adede08d4b?source=rss-95d48320118------2)
   > 
 AI agents are moving from experimentation to execution.
@@ -89,22 +106,6 @@ It’s …
 Principles for Securing Agentic Systems
 As AI systems move from passive chat interfaces to autonomous agents with tool access, traditional DevSecOps is no longer sufficient.
 AISecOps is the disciplin…
-
-✍️ [Sandboxing Moltbook in OpenClaw with a Docker Node (and Why It Matters)](https://medium.com/@viplav.fauzdar/sandboxing-moltbook-in-openclaw-with-a-docker-node-and-why-it-matters-33c785fbcf21?source=rss-95d48320118------2)
-  > 
-OpenClaw mental model: Gateway vs Agent vs Node
-Before the build log, here’s the simplest way to think about OpenClaw’s moving parts:
-
-
-Gateway: the hub. Receives messages/events, runs routing, hosts…
-
-✍️ [️ AISecOps: The Discipline That Will Secure the Age of AI](https://medium.com/@viplav.fauzdar/%EF%B8%8F-aisecops-the-missing-discipline-between-devsecops-and-mlops-f75da5845214?source=rss-95d48320118------2)
-  > 
-Artificial Intelligence moved from research labs into production faster than security could adapt.
-TL;DR
-DevSecOps secures infrastructure.
-MLOps operationalizes models.
-Neither secures AI behavior in…
 <!-- medium:end -->
 
 ## 🛠️ DIY Projects
