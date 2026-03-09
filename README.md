@@ -61,6 +61,7 @@ I'm a hands-on engineering leader with 25+ years of experience building scalable
 
 
 
+
 <!-- medium:start -->
 ✍️ [Building an AISecOps Runtime: Securing RAG and Agentic AI Systems with Real-Time Telemetry](https://medium.com/@viplav.fauzdar/building-an-aisecops-runtime-securing-rag-and-agentic-ai-systems-with-real-time-telemetry-c4fc3d36c0de?source=rss-95d48320118------2)
   > 
