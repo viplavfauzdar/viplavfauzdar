@@ -62,7 +62,13 @@ I'm a hands-on engineering leader with 25+ years of experience building scalable
 
 
 
+
 <!-- medium:start -->
+✍️ [Your AI Agent Just Took Over 7,000 Strangers’ Homes.](https://medium.com/@viplav.fauzdar/your-ai-agent-just-sent-an-email-you-didnt-authorise-0cec5e59194d?source=rss-95d48320118------2)
+  > 
+Your AI Agent Just Took Over 7,000 Strangers’ Homes. Here’s Why That’s a Security Problem, Not a Bug.
+Agentic AI systems are being deployed into production without a security discipline built for the…
+
 ✍️ [Building an AISecOps Runtime: Securing RAG and Agentic AI Systems with Real-Time Telemetry](https://medium.com/@viplav.fauzdar/building-an-aisecops-runtime-securing-rag-and-agentic-ai-systems-with-real-time-telemetry-c4fc3d36c0de?source=rss-95d48320118------2)
   > 
 AI systems are no longer static models behind APIs.
@@ -101,12 +107,6 @@ API keys
 
 It works. It’s convenient.
 It’s …
-
-✍️ [AISecOps Manifesto](https://medium.com/@viplav.fauzdar/aisecops-manifesto-9667baaf5603?source=rss-95d48320118------2)
-  > 
-Principles for Securing Agentic Systems
-As AI systems move from passive chat interfaces to autonomous agents with tool access, traditional DevSecOps is no longer sufficient.
-AISecOps is the disciplin…
 <!-- medium:end -->
 
 ## 🛠️ DIY Projects
