@@ -63,7 +63,21 @@ I'm a hands-on engineering leader with 25+ years of experience building scalable
 
 
 
+
 <!-- medium:start -->
+✍️ [I tried to hack my own AI agent. Here’s exactly what stopped it.](https://medium.com/@viplav.fauzdar/i-tried-to-hack-my-own-ai-agent-heres-exactly-what-stopped-it-2199176ff691?source=rss-95d48320118------2)
+  > 
+A walkthrough of indirect prompt injection in a real agentic pipeline — and the four defense layers that caught it.
+Attack simulation · AISecOps Interceptor
+Most articles about prompt injection show …
+
+✍️ [Your AI agent just sent an email. Did you authorize that?](https://medium.com/@viplav.fauzdar/your-ai-agent-just-sent-an-email-did-you-authorize-that-edeffe0b7f93?source=rss-95d48320118------2)
+  > 
+Why agentic AI needs a runtime security layer — and what that actually looks like.
+The security question enterprises keep asking about AI is: Can we trust the model?
+That’s the wrong question.
+The mo…
+
 ✍️ [Your AI Agent Just Took Over 7,000 Strangers’ Homes.](https://medium.com/@viplav.fauzdar/your-ai-agent-just-sent-an-email-you-didnt-authorise-0cec5e59194d?source=rss-95d48320118------2)
   > 
 Your AI Agent Just Took Over 7,000 Strangers’ Homes. Here’s Why That’s a Security Problem, Not a Bug.
@@ -84,29 +98,6 @@ There’s a dangerous misunderstanding spreading across the agentic AI ecosystem
 Guardrails are not content filters.
 In single-model chat systems, safety meant blocking harmful outputs.
 In agentic sys…
-
-✍️ [Securing AI Agents in the Enterprise: Building an AISecOps Plugin for OpenClaw](https://medium.com/@viplav.fauzdar/securing-ai-agents-in-the-enterprise-building-an-aisecops-plugin-for-openclaw-f4adede08d4b?source=rss-95d48320118------2)
-  > 
-AI agents are moving from experimentation to execution.
-They create Jira tickets.
-They deploy infrastructure.
-They query internal systems.
-They mutate production data.
-That’s powerful.
-It’s also dang…
-
-✍️ [Sandboxing AI Tools in OpenClaw: A Practical AISecOps Pattern](https://medium.com/@viplav.fauzdar/sandboxing-moltbook-in-openclaw-with-a-docker-node-844a749d3442?source=rss-95d48320118------2)
-  > 
-From “Cool POC” to Practical AISecOps Architecture
-Most people experimenting with OpenClaw run everything on a single machine:
-
-Gateway
-Agent
-Tool execution
-API keys
-
-It works. It’s convenient.
-It’s …
 <!-- medium:end -->
 
 ## 🛠️ DIY Projects
