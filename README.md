@@ -64,6 +64,7 @@ I'm a hands-on engineering leader with 25+ years of experience building scalable
 
 
 
+
 <!-- medium:start -->
 ✍️ [I tried to hack my own AI agent. Here’s exactly what stopped it.](https://medium.com/@viplav.fauzdar/i-tried-to-hack-my-own-ai-agent-heres-exactly-what-stopped-it-2199176ff691?source=rss-95d48320118------2)
   > 
