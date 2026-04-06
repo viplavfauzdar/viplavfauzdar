@@ -65,7 +65,13 @@ I'm a hands-on engineering leader with 25+ years of experience building scalable
 
 
 
+
 <!-- medium:start -->
+✍️ [I built an AI receptionist using four AI agents — and none of them talked to each other](https://medium.com/@viplav.fauzdar/i-built-an-ai-receptionist-using-four-ai-agents-and-none-of-them-talked-to-each-other-7f594d81b7e3?source=rss-95d48320118------2)
+  > 
+A solo founder’s guide to orchestrating a multi-agent development workflow without losing your mind
+There’s a moment every solo technical founder knows well. It’s 11pm. You’re context-switching betwe…
+
 ✍️ [I tried to hack my own AI agent. Here’s exactly what stopped it.](https://medium.com/@viplav.fauzdar/i-tried-to-hack-my-own-ai-agent-heres-exactly-what-stopped-it-2199176ff691?source=rss-95d48320118------2)
   > 
 A walkthrough of indirect prompt injection in a real agentic pipeline — and the four defense layers that caught it.
@@ -92,13 +98,6 @@ They call tools.
 They execute workflows.
 And that means they can be attacked.
 While most discussions focus on model sa…
-
-🔐 [A Threat Model for Agentic AI (MCP, A2A &amp; Swarm Systems)](https://medium.com/@viplav.fauzdar/a-threat-model-for-agentic-ai-mcp-a2a-swarm-systems-f04cfcfa52ca?source=rss-95d48320118------2)
-  > 
-There’s a dangerous misunderstanding spreading across the agentic AI ecosystem:
-Guardrails are not content filters.
-In single-model chat systems, safety meant blocking harmful outputs.
-In agentic sys…
 <!-- medium:end -->
 
 ## 🛠️ DIY Projects
