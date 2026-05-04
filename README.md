@@ -69,6 +69,7 @@ I'm a hands-on engineering leader with 25+ years of experience building scalable
 
 
 
+
 <!-- medium:start -->
 ✍️ [I built an AI receptionist using four AI agents — and none of them talked to each other](https://medium.com/@viplav.fauzdar/i-built-an-ai-receptionist-using-four-ai-agents-and-none-of-them-talked-to-each-other-7f594d81b7e3?source=rss-95d48320118------2)
   > 
