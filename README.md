@@ -71,7 +71,17 @@ I'm a hands-on engineering leader with 25+ years of experience building scalable
 
 
 
+
 <!-- medium:start -->
+✍️ [I Built a Runtime Forensics Layer for AI Agents](https://medium.com/@viplav.fauzdar/i-built-a-runtime-forensics-layer-for-ai-agents-7e7c651cd758?source=rss-95d48320118------2)
+  > 
+AI agents are becoming execution systems.
+That changes the security model completely.
+The Problem With “AI Security” Today
+Most AI security tooling still focuses on one thing:
+Prompt filtering
+That m…
+
 ✍️ [I built an AI receptionist using four AI agents — and none of them talked to each other](https://medium.com/@viplav.fauzdar/i-built-an-ai-receptionist-using-four-ai-agents-and-none-of-them-talked-to-each-other-7f594d81b7e3?source=rss-95d48320118------2)
   > 
 A solo founder’s guide to orchestrating a multi-agent development workflow without losing your mind
@@ -94,15 +104,6 @@ The mo…
   > 
 Your AI Agent Just Took Over 7,000 Strangers’ Homes. Here’s Why That’s a Security Problem, Not a Bug.
 Agentic AI systems are being deployed into production without a security discipline built for the…
-
-✍️ [Building an AISecOps Runtime: Securing RAG and Agentic AI Systems with Real-Time Telemetry](https://medium.com/@viplav.fauzdar/building-an-aisecops-runtime-securing-rag-and-agentic-ai-systems-with-real-time-telemetry-c4fc3d36c0de?source=rss-95d48320118------2)
-  > 
-AI systems are no longer static models behind APIs.
-They retrieve external data.
-They call tools.
-They execute workflows.
-And that means they can be attacked.
-While most discussions focus on model sa…
 <!-- medium:end -->
 
 ## 🛠️ DIY Projects
