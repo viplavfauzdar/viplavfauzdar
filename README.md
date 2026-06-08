@@ -74,7 +74,15 @@ I'm a hands-on engineering leader with 25+ years of experience building scalable
 
 
 
+
 <!-- medium:start -->
+✍️ [Beyond AI Firewalls: The Rise of Runtime Governance](https://medium.com/@viplav.fauzdar/beyond-ai-firewalls-the-rise-of-runtime-governance-b5005c28338c?source=rss-95d48320118------2)
+  > 
+Agentic AI can plan. Tools can execute. Governance decides what’s allowed.
+The Problem Nobody Talks About
+For the last two years, the conversation around AI security has focused on models.
+We worried…
+
 ✍️ [I Built a Runtime Forensics Layer for AI Agents](https://medium.com/@viplav.fauzdar/i-built-a-runtime-forensics-layer-for-ai-agents-7e7c651cd758?source=rss-95d48320118------2)
   > 
 AI agents are becoming execution systems.
@@ -101,11 +109,6 @@ Why agentic AI needs a runtime security layer — and what that actually loo
 The security question enterprises keep asking about AI is: Can we trust the model?
 That’s the wrong question.
 The mo…
-
-✍️ [Your AI Agent Just Took Over 7,000 Strangers’ Homes.](https://medium.com/@viplav.fauzdar/your-ai-agent-just-sent-an-email-you-didnt-authorise-0cec5e59194d?source=rss-95d48320118------2)
-  > 
-Your AI Agent Just Took Over 7,000 Strangers’ Homes. Here’s Why That’s a Security Problem, Not a Bug.
-Agentic AI systems are being deployed into production without a security discipline built for the…
 <!-- medium:end -->
 
 ## 🛠️ DIY Projects
