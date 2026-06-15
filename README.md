@@ -75,6 +75,7 @@ I'm a hands-on engineering leader with 25+ years of experience building scalable
 
 
 
+
 <!-- medium:start -->
 ✍️ [Beyond AI Firewalls: The Rise of Runtime Governance](https://medium.com/@viplav.fauzdar/beyond-ai-firewalls-the-rise-of-runtime-governance-b5005c28338c?source=rss-95d48320118------2)
   > 
